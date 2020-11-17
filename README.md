@@ -1,16 +1,11 @@
-### Hi there 👋
+# sirDudesALot
+- 👋 **Me:** John (he/him/his)
+- 👨‍🎓 **Education:** BSc Software Engineering (hons) - University of Portsmouth
+- 💼 **Occupation:** Developer / Software Engineer
+- 💻 **First languages:** Pascal; Cobol;
+- 👨‍💻 **Current languages:** Java; C#; T-SQL; Typescript;
+- 🌱 **Current interests:** ML.NET`
+- 📫 **How to reach me:** @johnjones81 (Twitter)
+- ⚡ **About me:** Massive music fan - I've always got a record on whilst working.  You can see what I'm currently listening to at https://last.fm/user/johnjones81 🎶🎶🎵🎶🎶🎶🎵
 
-<!--
-**sirDudesALot/sirDudesALot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "I don't know where I'm going from here, but I promise it won't be boring" - **David Bowie**
